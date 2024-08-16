@@ -1,6 +1,7 @@
 .container {
   text-align: center;
   margin: 50px;
+  border: solid 3px #2f2f2f;
 }
 
 .whole-drum {
